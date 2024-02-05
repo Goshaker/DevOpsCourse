@@ -1,0 +1,12 @@
+mygroups:
+  - name: students
+  - name: teachers
+
+users:
+  - name: student1
+    group: students
+    password: 1234qwerty
+
+  - name: teacher1
+    group: teachers
+    password: qwerty1234
